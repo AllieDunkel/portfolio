@@ -5,12 +5,12 @@
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/AllieDunkel",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
+          "name": "Linkedln",
+          "url": "https://www.linkedin.com/in/alliedunkel/",
           "class": "fab fa-instagram"
         }
       ],
